@@ -1,5 +1,8 @@
 # FullDemoTemplateOGL
 
+#ESTE PROYECTO HA SIDO MODIFICADO PARA EL PIA DE P.O.O. - dpqh
+
+
 Este demo contiene lo necesario para hacer una aplicacion usando OpenGL, contiene librerias para el uso de las extensiones de GL, librerias para soporte de
 imagenes y una implementacion primitiva para deteccion de colisiones. Este proyecto intenta implementar los conceptos de POO para facilitar el uso de OpenGL.
 
