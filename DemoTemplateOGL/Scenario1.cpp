@@ -304,7 +304,7 @@ void Scenario1::updateDustAnimation(float deltaTime) {
 
 
 void Scenario1::inicializaBillboards() {
-	float ye = terreno->Superficie(0, 0);
+	/*float ye = terreno->Superficie(0, 0);
 	billBoard.emplace_back(new Billboard((WCHAR*)L"billboards/Arbol.png", 6, 6, 0, ye - 1, 0, camara->cameraDetails));
 
 	ye = terreno->Superficie(-9, -15);
@@ -323,7 +323,7 @@ void Scenario1::inicializaBillboards() {
 		billBoardAnimated->pushFrame(new Billboard((WCHAR*)textura, 6, 6, 5, ye - 1, -5, camara->cameraDetails));
 	}
 	billBoardAnim.emplace_back(billBoardAnimated);
-
+	*/
 
 }
 
